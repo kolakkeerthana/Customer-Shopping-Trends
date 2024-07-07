@@ -8,6 +8,7 @@ This dataset originates from Tableau Desktop and solely for the purpose of pract
 The “Median Household Income”, “Population” attributes of US states are extracted from USDA Economic research Service. 
 
 https://data.ers.usda.gov/reports.aspx?ID=17828 
+
 https://data.ers.usda.gov/reports.aspx?ID=17827#P9c27fbe899a64844bcd14f228712ca05_4_157iT3
 
 
